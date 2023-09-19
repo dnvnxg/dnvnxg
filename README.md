@@ -26,7 +26,7 @@
 <!-- Resume & Website -->
 <h2 align="center">Resume & Website</h2>
 <p align="center">
-  📄 [Download Resume](https:donovan.fyi/resume.pdf) | 🌐 [Visit My Website](https://donovan.fyi)
+  📄 [Download Resume](https://donovan.fyi/resume.pdf) | 🌐 [Visit My Website](https://donovan.fyi)
 </p>
 
 <!-- Footer -->

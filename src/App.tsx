@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
-import NavbarComponent from './components/NavbarComponent'
+import NavbarComponent from './components/Navbar/NavbarComponent'
 import Button from 'react-bootstrap/Button'
 
 export default function App() {

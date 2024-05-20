@@ -4,20 +4,20 @@
 
 <!-- Profile Picture (Placeholder) -->
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture">
+  <img src="1649708578290.jpg" alt="Profile Picture">
 </p>
 
 <!-- About Me (Placeholder) -->
-<p align="center">Placeholder for a brief introduction about me.</p>
+<p align="center">Recent Computer Science graduate seeking an entry-level software development position to utilize my skills. Experience with both small and large projects in a variety of languages. Strong skills in leadership, teamwork/cooperation, and meeting deadlines. I take great pride in the quality of work I put out.</p>
 
 <!-- Social Links (Horizontal) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/donovangriego" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://www.joinhandshake.com/users/yourusername" target="_blank">
+  <!-- <a href="https://www.joinhandshake.com/users/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Handshake-%23000000?style=flat" alt="Handshake">
-  </a>
+  </a> -->
   <a href="https://www.indeed.com/u/dnvnxg" target="_blank">
     <img src="https://img.shields.io/badge/Indeed-%23096DA1?style=flat" alt="Indeed">
   </a>
@@ -27,11 +27,11 @@
 <h2 align="center">Resume & Website</h2>
 <p align="center">
   <a href="https://donovan.fyi/resume.pdf" target="_blank">
-    📄 Download Resume
+    📄 Download Resume - Under construction
   </a>
   |
   <a href="https://donovan.fyi" target="_blank">
-    🌐 Visit My Website
+    🌐 Visit My Website - Under construction
   </a>
 </p>
 

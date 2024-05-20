@@ -4,7 +4,7 @@
 
 <!-- Profile Picture (Placeholder) -->
 <p align="center">
-  <img src="1649708578290.jpg" alt="Profile Picture">
+  <img src="1649708578290.jpg" style="width: 250px; height: 250px"alt="Profile Picture">
 </p>
 
 <!-- About Me (Placeholder) -->

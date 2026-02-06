@@ -1,22 +1,14 @@
 # Donovan Xavier
 
-Software engineer. R&D at Sandia National Laboratories. Building in public.
+Software engineer. Building cool things.
 
 ---
 
 ## About
 
-I'm a software engineer focused on **distributed systems**, **full-stack development**, and **AI/ML infrastructure**. Currently working on real-time satellite data analysis systems at Sandia. 
+I'm a software engineer focused on **distributed systems**, **full-stack development**, and **AI/ML infrastructure**.
 
-When I'm not at work, I'm chasing passion projects: **game development**, **AI agents**, and experimenting with novel software concepts.
-
----
-
-## What I'm Working On
-
-- **ICADS** — Real-time satellite data analysis system (UI/frontend architecture)
-- **Project LIP** — A public second brain. Life, work, learning, all compiled and published dynamically
-- Various **side projects** in game dev, ML, and distributed computing
+When I'm not working, I'm chasing passion projects: **game development**, **AI agents**, and experimenting with novel software concepts.
 
 ---
 
@@ -35,14 +27,6 @@ When I'm not at work, I'm chasing passion projects: **game development**, **AI a
 - **Site:** [donovan.fyi](https://donovan.fyi)
 - **GitHub:** [@dnvnxg](https://github.com/dnvnxg)
 - **Discord:** dnvnxg
-
----
-
-## Currently
-
-- Learning org-mode and building out Project LIP
-- Upgrading homelab infrastructure (distributed compute cluster)
-- Cleaning up GitHub profile, focusing on meaningful projects
 
 ---
 

@@ -1,33 +1,9 @@
-# Donovan Xavier
+# Donovan Griego
 
-Software engineer. Building cool things.
+Software engineer at Sandia National Laboratories. I build full-stack applications, database-driven systems, and data pipelines across classified and personal projects.
 
----
-
-## About
-
-I'm a software engineer focused on **distributed systems**, **full-stack development**, and **AI/ML infrastructure**.
-
-When I'm not working, I'm chasing passion projects: **game development**, **AI agents**, and experimenting with novel software concepts.
+Interested in **distributed systems**, **AI agents**, **infrastructure-as-code**, and occasionally **game dev**.
 
 ---
 
-## Tech Stack
-
-**Languages:** Python · TypeScript · Java · Rust (learning)
-
-**Systems:** React · Spring Boot · Docker · Kubernetes · PyTorch · TensorFlow
-
-**Infrastructure:** GitLab CI/CD · Distributed systems · Cloud deployments
-
----
-
-## Links
-
-- **Site:** [donovan.fyi](https://donovan.fyi)
-- **GitHub:** [@dnvnxg](https://github.com/dnvnxg)
-- **Discord:** dnvnxg
-
----
-
-*Last updated: Feb 2026*
+**[donovan.fyi](https://donovan.fyi)** · **[LinkedIn](https://linkedin.com/in/donovangriego)** · **Discord:** dnvnxg
